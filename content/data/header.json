@@ -11,7 +11,7 @@
                 "padding": [
                     "pt-0"
                 ],
-                "borderWidth": 4
+                "borderWidth": 0
             }
         },
         "type": "ImageBlock"
